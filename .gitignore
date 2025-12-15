@@ -1,0 +1,16 @@
+# Данные
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Временные файлы
+*.tmp
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
